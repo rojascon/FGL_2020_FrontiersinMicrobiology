@@ -13,7 +13,7 @@ new_col=c("#7fc97f","#beaed4","#fdc086")
 
 #plot ASV niche breadth vs. ASV average relative abundance across enrichment samples
 #each sample was color-coded by niche breadth category:
-#0-specialist #1-medium (i.e. average niche breadth) 2-generalist
+#0-specialist #1-other (i.e. average niche breadth) 2-generalist
 
 niche_enrich=ggplot(data=niche)+ 
   geom_point(mapping=aes(x = MeanRelAbund, y = niche_breadth, colour = category))+
@@ -22,8 +22,7 @@ niche_enrich=ggplot(data=niche)+
   scale_x_continuous(breaks=seq(from=-1, to=-6, by=-1))+
   labs(y="Levin's niche breadth",
        x="ASV Average Relative Abundance (log)",
-       colour="",
-       title="Niche breadth -- samples from enrichments")+
+       colour="")+
   theme_bw()+  
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),

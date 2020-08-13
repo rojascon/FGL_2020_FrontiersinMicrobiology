@@ -94,280 +94,280 @@ Bacteria	Patescibacteria	Parcubacteria	Candidatus Moranbacteria	uncultured soil 
 Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis	Bauldia	-4.818628706	1.384615385	0	specialist
 Bacteria	Patescibacteria	unclassified_Patescibacteria	unclassified_Patescibacteria	unclassified_Patescibacteria	unclassified_Patescibacteria	-4.767482555	1.384615385	0	specialist
 Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	uncultured	unidentified rumen bacterium RF32	-4.864772308	1.384615385	0	specialist
-Bacteria	Chloroflexi	Dehalococcoidia	GIF9	AB-539-J10	unclassified_AB-539-J10	-4.810950525	2.777777778	1	medium
-Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	unclassified_AKAU3564 sediment group	-3.470710657	2.850266025	1	medium
-Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	unclassified_Anaerolineaceae	-2.402478443	2.225364676	1	medium
-Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	unclassified_Bacillaceae	-3.374521058	2.018439305	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	unclassified_Burkholderiaceae	-3.82724866	1.433703799	1	medium
-Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	unclassified_Chlorobiaceae	-4.755167417	2.461538462	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Cryomorphaceae	unclassified_Cryomorphaceae	-4.090824567	1.435133457	1	medium
-Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	unclassified_Cyanobiaceae	-1.689071776	1.565598603	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	env.OPS 17	unclassified_env.OPS 17	-4.481670067	2.941176471	1	medium
-Bacteria	Hydrogenedentes	Hydrogenedentia	Hydrogenedentiales	Hydrogenedensaceae	unclassified_Hydrogenedensaceae	-3.826299654	2.5995086	1	medium
-Bacteria	Tenericutes	Mollicutes	Izimaplasmatales	Izimaplasmataceae	unclassified_Izimaplasmataceae	-2.613934783	2.626457907	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	Melioribacteraceae	unclassified_Melioribacteraceae	-3.113059892	1.442949617	1	medium
-Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	unclassified_Microbacteriaceae	-3.58342637	2.634840871	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	unclassified_Mitochondria	-4.718026092	1.470588235	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	PHOS-HE36	unclassified_PHOS-HE36	-3.62182092	2.377555873	1	medium
-Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	unclassified_Phycisphaeraceae	-3.969475107	2.37037037	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unclassified_Rhodobacteraceae	-4.31807569	2.279132791	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	unclassified_Ruminococcaceae	-3.418004812	2.319200276	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	SB-5	unclassified_SB-5	-3.32167801	1.702356793	1	medium
-Bacteria	Dependentiae	Babeliae	Babeliales	UBA12411	unclassified_UBA12411	-3.782667998	1.539178082	1	medium
-Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	unclassified_Vermiphilaceae	-3.959227545	3.04137931	1	medium
-Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	unclassified_ADurb.Bin180	unclassified_ADurb.Bin180	-3.79997405	2.083333333	1	medium
-Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	unclassified_Aminicenantales	unclassified_Aminicenantales	-4.19290366	1.967479675	1	medium
-Bacteria	Dependentiae	Babeliae	Babeliales	unclassified_Babeliales	unclassified_Babeliales	-3.343773267	3.336652624	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unclassified_Bacteroidales	unclassified_Bacteroidales	-2.237093775	1.555858288	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidetes VC2.1 Bac22	unclassified_Bacteroidetes VC2.1 Bac22	unclassified_Bacteroidetes VC2.1 Bac22	-3.838895926	2.002502085	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	unclassified_Betaproteobacteriales	unclassified_Betaproteobacteriales	-3.252142761	1.659373579	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Buchananbacteria	unclassified_Candidatus Buchananbacteria	unclassified_Candidatus Buchananbacteria	-4.463489289	1.8	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Moranbacteria	unclassified_Candidatus Moranbacteria	unclassified_Candidatus Moranbacteria	-1.437394352	1.411164754	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Nealsonbacteria	unclassified_Candidatus Nealsonbacteria	unclassified_Candidatus Nealsonbacteria	-3.702012659	1.941362916	1	medium
-Bacteria	Patescibacteria	Microgenomatia	Candidatus Shapirobacteria	unclassified_Candidatus Shapirobacteria	unclassified_Candidatus Shapirobacteria	-3.616817893	3.316803081	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	unclassified_Candidatus Staskawiczbacteria	unclassified_Candidatus Staskawiczbacteria	-2.85816861	1.839737454	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Uhrbacteria	unclassified_Candidatus Uhrbacteria	unclassified_Candidatus Uhrbacteria	-4.716081584	2.777777778	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	GIF3	unclassified_GIF3	unclassified_GIF3	-4.671539774	2.777777778	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	GIF9	unclassified_GIF9	unclassified_GIF9	-2.370324525	2.566468085	1	medium
-Bacteria	Patescibacteria	Parcubacteria	GWB1-42-6	unclassified_GWB1-42-6	unclassified_GWB1-42-6	-2.85497493	2.451318784	1	medium
-Bacteria	Actinobacteria	Acidimicrobiia	IMCC26256	unclassified_IMCC26256	unclassified_IMCC26256	-3.896916674	1.818694223	1	medium
-Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	unclassified_Lineage IV	unclassified_Lineage IV	-3.277899827	1.985122317	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	NKB15	unclassified_NKB15	unclassified_NKB15	-3.546483676	1.949332105	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	OPB56	unclassified_OPB56	unclassified_OPB56	-3.396432808	1.52267658	1	medium
-Bacteria	Actinobacteria	Actinobacteria	PeM15	unclassified_PeM15	unclassified_PeM15	-4.472996474	2.805825243	1	medium
-Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	unclassified_Saccharimonadales	unclassified_Saccharimonadales	-4.403295014	1.446494465	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	unclassified_Sva0485	unclassified_Sva0485	-3.347422236	2.657604218	1	medium
-Bacteria	Lentisphaerae	Lentisphaeria	Victivallales	unclassified_Victivallales	unclassified_Victivallales	-4.030794725	1.800389484	1	medium
-Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	unclassified_WCHB1-41	unclassified_WCHB1-41	-2.290892058	3.030607023	1	medium
-Bacteria	Chloroflexi	Anaerolineae	SBR1031	uncultured bacterium	uncultured bacterium	-3.868709329	1.406593407	1	medium
-Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	CL500-29 marine group	-3.497155379	1.408351929	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Bacteroidetes bacterium GWE2_42_24	-2.946563157	1.417416477	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	S15A-MN91	uncultured soil bacterium	-3.980613022	1.417943107	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	uncultured Sphingobacteriales bacterium	-3.983837677	1.418565401	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidetes VC2.1 Bac22	sediment metagenome	sediment metagenome	-3.119112117	1.43075193	1	medium
-Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobium	-0.703650376	1.44297669	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Chromatium	-3.458709482	1.45163456	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	NS11-12 marine group	uncultured Flexibacteraceae bacterium	-5.019056088	1.470588235	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	uncultured	-4.886094051	1.470588235	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	Dehalococcoidales	uncultured	uncultured soil bacterium	-4.838122289	1.470588235	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	FTLpost3	uncultured Bacteroidetes bacterium	-4.554198496	1.470588235	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	Absconditabacteriales (SR1)	uncultured microorganism	uncultured microorganism	-4.528575841	1.470588235	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Peredibacter	-4.560144241	1.470588235	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Providencia	-4.560144241	1.470588235	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	GIF9	AB-539-J10	uncultured Dehalococcoidia bacterium	-3.960830634	1.525065963	1	medium
-Bacteria	Actinobacteria	Actinobacteria	PeM15	bacterium rJ7	bacterium rJ7	-4.215282536	1.526382708	1	medium
-Bacteria	Patescibacteria	WWE3	unclassified_WWE3	unclassified_WWE3	unclassified_WWE3	-4.139143167	1.528117359	1	medium
-Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	metagenome	metagenome	-3.653819673	1.529779712	1	medium
-Bacteria	Chloroflexi	KD4-96	bacterium Ellin6529	bacterium Ellin6529	bacterium Ellin6529	-4.118649355	1.530612245	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	GIF3	Dehalococcoidia bacterium SCGC AB-540-C11	Dehalococcoidia bacterium SCGC AB-540-C11	-3.172443486	1.544615744	1	medium
-Bacteria	Chloroflexi	unclassified_Chloroflexi	unclassified_Chloroflexi	unclassified_Chloroflexi	unclassified_Chloroflexi	-3.717568808	1.544766709	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Paceibacterales	Paceibacteraceae	Candidatus Paceibacter	-3.919314982	1.553956835	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	uncultured	-4.11338881	1.555555556	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	S-BQ2-57 soil group	uncultured Verrucomicrobium sp.	uncultured Verrucomicrobium sp.	-3.301752939	1.56050889	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	Kryptoniales	BSV26	Ignavibacteria bacterium RIFCSPLOWO2_12_FULL_56_21	-3.477988438	1.592840863	1	medium
-Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Sphaerochaeta	-4.869189286	1.6	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	uncultured	-4.233224047	1.6	1	medium
-Bacteria	Lentisphaerae	Lentisphaeria	Victivallales	PRD18C08	uncultured bacterium	-3.043884148	1.601099605	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	unclassified_Gammaproteobacteria	unclassified_Gammaproteobacteria	unclassified_Gammaproteobacteria	-3.384599552	1.6025878	1	medium
-Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	hgcI clade	-3.606795641	1.603031721	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	B29	uncultured bacterium	uncultured bacterium	-4.720591482	1.60952381	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	-3.798982848	1.639376218	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured eubacterium WCHB1-53	-4.403133721	1.657534247	1	medium
-Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1	-3.595264664	1.672359551	1	medium
-Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	uncultured planctomycete	-4.191471089	1.674418605	1	medium
-Archaea	Diapherotrites	Iainarchaeia	Iainarchaeales	metagenome	metagenome	-4.464483077	1.684210526	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	uncultured	uncultured bacterium	-4.433987594	1.689655172	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	-4.230474005	1.714768884	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Lentimicrobium	-3.025593625	1.743852263	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	uncultured bacterium	uncultured bacterium	uncultured bacterium	-3.366015947	1.758215255	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Campbellbacteria	Candidatus Campbellbacteria bacterium RIFOXYC2_FULL_35_25	Candidatus Campbellbacteria bacterium RIFOXYC2_FULL_35_25	-4.673376735	1.781818182	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	uncultured	uncultured soil bacterium	-4.116057421	1.781818182	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Nomurabacteria	uncultured Parcubacteria group bacterium	uncultured Parcubacteria group bacterium	-4.937506107	1.8	1	medium
-Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Candidatus Marispirochaeta	-4.516030445	1.8	1	medium
-Archaea	Diapherotrites	Micrarchaeia	uncultured euryarchaeote	uncultured euryarchaeote	uncultured euryarchaeote	-4.715213812	1.814814815	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Opitutaceae	IMCC26134	-4.438488234	1.814814815	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfatiferula	-4.30227167	1.820224719	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	unclassified_Dehalococcoidia	unclassified_Dehalococcoidia	unclassified_Dehalococcoidia	-2.889304094	1.836386514	1	medium
-Bacteria	Actinobacteria	Actinobacteria	PeM15	Actinomycetales bacterium GP-5	Actinomycetales bacterium GP-5	-3.208837714	1.842191108	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	-4.213868673	1.845225027	1	medium
-Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	IMCC26207	-4.502302999	1.851851852	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	-4.532122252	1.856140351	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	unclassified_Gracilibacteria	unclassified_Gracilibacteria	unclassified_Gracilibacteria	-3.782793449	1.857355126	1	medium
-Bacteria	Gemmatimonadetes	BD2-11 terrestrial group	uncultured Gemmatimonadales bacterium HF0200_36I24	uncultured Gemmatimonadales bacterium HF0200_36I24	uncultured Gemmatimonadales bacterium HF0200_36I24	-4.079395489	1.857819905	1	medium
-Bacteria	Chloroflexi	Anaerolineae	SBR1031	terrestrial metagenome	terrestrial metagenome	-3.187959486	1.867808686	1	medium
-Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Cyanobium PCC-6307	-3.051095474	1.874089934	1	medium
-Bacteria	Actinobacteria	WCHB1-81	unclassified_WCHB1-81	unclassified_WCHB1-81	unclassified_WCHB1-81	-3.431534301	1.876923077	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Anaerovorax	-4.144691985	1.880694143	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	ER-E4-17	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	-4.404745415	1.882352941	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	TC1	Clostridiales bacterium enrichment culture clone 2z-3	-3.434346982	1.890625	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Massilia	-4.265930828	1.905882353	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Lamprocystis	-3.50083649	1.911053627	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Kerfeldbacteria	Parcubacteria group bacterium ADurb.Bin326	Parcubacteria group bacterium ADurb.Bin326	-5.163288104	1.923076923	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	Candidatus Peregrinibacteria bacterium RIFCSPLOWO2_01_FULL_48_20	Candidatus Peregrinibacteria bacterium RIFCSPLOWO2_01_FULL_48_20	-4.821749363	1.923076923	1	medium
-Bacteria	Chloroflexi	KD4-96	uncultured Longilinea sp.	uncultured Longilinea sp.	uncultured Longilinea sp.	-4.74691098	1.923076923	1	medium
-Bacteria	Cloacimonetes	Cloacimonadia	Cloacimonadales	MSBL8	uncultured organism	-3.43535151	1.924104757	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Falkowbacteria	Candidatus Falkowbacteria bacterium RIFOXYD2_FULL_34_120	Candidatus Falkowbacteria bacterium RIFOXYD2_FULL_34_120	-4.32797725	1.931428571	1	medium
-Bacteria	WOR-1	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	-3.612314389	1.940831296	1	medium
-Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	uncultured Clostridiaceae bacterium	uncultured Clostridiaceae bacterium	-3.490049119	1.94220468	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	Neisseria	-4.083643888	1.952748312	1	medium
-Bacteria	Dependentiae	Babeliae	Babeliales	UBA12411	uncultured deep-sea bacterium	-4.627166394	1.96	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	ADurb.Bin408	Bacteroidetes bacterium ADurb.Bin408	-4.056486462	1.96	1	medium
-Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	metagenome	-3.514256802	1.969474576	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	-2.164525162	1.97780452	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	-4.074888515	1.989085948	1	medium
-Bacteria	uncultured	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	-4.680807226	2	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Paludibacteraceae	Paludibacter	-2.665927263	2.02910849	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	Sh765B-TzT-20	uncultured Chlorobi bacterium	uncultured Chlorobi bacterium	-4.23351314	2.050632911	1	medium
-Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae UCG-004	-3.379022772	2.05854524	1	medium
-Bacteria	Acidobacteria	Subgroup 6	unclassified_Subgroup 6	unclassified_Subgroup 6	unclassified_Subgroup 6	-3.368465403	2.066202825	1	medium
-Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	-3.856991753	2.07896735	1	medium
-Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	Verrucomicrobia bacterium ADurb.Bin070	Verrucomicrobia bacterium ADurb.Bin070	-3.839379689	2.110749186	1	medium
-Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Sulfurovaceae	Sulfurovum	-2.270211312	2.118543733	1	medium
-Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	uncultured Planctomycetes Sva0500	uncultured Planctomycetes Sva0500	-4.340534265	2.137829912	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	GIF3	uncultured Chlorobi bacterium	uncultured Chlorobi bacterium	-3.688045419	2.148890092	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	-3.955152581	2.156299841	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidetes VC2.1 Bac22	uncultured bacterium GR-WP33-68	uncultured bacterium GR-WP33-68	-3.228009828	2.156772199	1	medium
-Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	Elusimicrobia bacterium CG1_02_56_21	Elusimicrobia bacterium CG1_02_56_21	-4.146328046	2.163449163	1	medium
-Bacteria	Calditrichaeota	Calditrichia	Calditrichales	Calditrichaceae	uncultured Sulfuricurvum sp.	-4.48118688	2.172932331	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingorhabdus	-4.658730559	2.173913043	1	medium
-Bacteria	Actinobacteria	WCHB1-81	Actinobacteria bacterium RBG_19FT_COMBO_36_27	Actinobacteria bacterium RBG_19FT_COMBO_36_27	Actinobacteria bacterium RBG_19FT_COMBO_36_27	-2.381792308	2.177542716	1	medium
-Bacteria	Chloroflexi	Anaerolineae	unclassified_Anaerolineae	unclassified_Anaerolineae	unclassified_Anaerolineae	-4.202937259	2.187878788	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfocapsa	-2.560423569	2.190675719	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herbaspirillum	-3.058265682	2.19133913	1	medium
-Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	uncultured soil bacterium	uncultured soil bacterium	-2.086238757	2.198217039	1	medium
-Bacteria	Actinobacteria	Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	-4.077677646	2.203482046	1	medium
-Bacteria	Actinobacteria	RBG-16-55-12	Actinobacteria bacterium RBG_16_55_12	Actinobacteria bacterium RBG_16_55_12	Actinobacteria bacterium RBG_16_55_12	-3.717852419	2.213188799	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	LKC2.127-25	uncultured bacterium	-3.665833291	2.213510848	1	medium
-Bacteria	Caldiserica	Caldisericia	Caldisericales	WCHB1-02	uncultured Firmicutes bacterium	-4.178254054	2.219178082	1	medium
-Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Thiovulaceae	Sulfuricurvum	-2.232755407	2.223645368	1	medium
-Bacteria	Actinobacteria	WCHB1-81	uncultured eubacterium WCHB1-81	uncultured eubacterium WCHB1-81	uncultured eubacterium WCHB1-81	-2.974524988	2.250923449	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	unidentified archaeon	unidentified archaeon	unidentified archaeon	-4.765699982	2.272727273	1	medium
-Bacteria	Nitrospirae	Thermodesulfovibrionia	uncultured	Nitrospirae bacterium GWF2_44_13	Nitrospirae bacterium GWF2_44_13	-4.873595262	2.272727273	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Uhrbacteria	Candidatus Uhrbacteria bacterium GW2011_GWF2_41_40	Candidatus Uhrbacteria bacterium GW2011_GWF2_41_40	-4.873595262	2.272727273	1	medium
-Archaea	Euryarchaeota	unclassified_Euryarchaeota	unclassified_Euryarchaeota	unclassified_Euryarchaeota	unclassified_Euryarchaeota	-4.790106068	2.272727273	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17	Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17	-4.737785629	2.272727273	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	-4.193283815	2.281191806	1	medium
-Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	-3.382006638	2.28490978	1	medium
-Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	uncultured Thermoanaerobacteraceae bacterium	uncultured Thermoanaerobacteraceae bacterium	-3.364312343	2.29594306	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured Geobacter sp.	-3.839055931	2.300840336	1	medium
-Bacteria	Firmicutes	unclassified_Firmicutes	unclassified_Firmicutes	unclassified_Firmicutes	unclassified_Firmicutes	-2.914040011	2.302309795	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	uncultured soil bacterium	uncultured soil bacterium	-4.556162494	2.314285714	1	medium
-Bacteria	Calditrichaeota	Calditrichia	Calditrichales	Calditrichaceae	uncultured Caldithrix sp.	-4.289620471	2.322580645	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured Sphingobacteriia bacterium	-3.800027782	2.32534105	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	unclassified_Deltaproteobacteria	unclassified_Deltaproteobacteria	unclassified_Deltaproteobacteria	-2.953051739	2.330398488	1	medium
-Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	GOUTB8	-4.600072877	2.333333333	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	-4.438497316	2.333333333	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	uncultured archaeon	-3.000495909	2.336623299	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	Parcubacteria group bacterium GW2011_GWC2_32_10	Parcubacteria group bacterium GW2011_GWC2_32_10	-3.501322904	2.338801889	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured euryarchaeote	uncultured euryarchaeote	uncultured euryarchaeote	-2.846614835	2.35053952	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	JGI 0000069-P22	uncultured Candidatus Gracilibacteria bacterium	uncultured Candidatus Gracilibacteria bacterium	-4.315801446	2.358490566	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7	Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7	Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7	-3.00700729	2.358736525	1	medium
-Bacteria	Cyanobacteria	Melainabacteria	Gastranaerophilales	Candidatus Melainabacteria bacterium RIFOXYA2_FULL_32_9	Candidatus Melainabacteria bacterium RIFOXYA2_FULL_32_9	-3.903925695	2.362893816	1	medium
-Bacteria	Omnitrophicaeota	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	-2.923772409	2.364208265	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	BSV40	uncultured bacterium	-3.397765126	2.367630058	1	medium
-Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	candidate division TM6 bacterium GW2011_GWE2_41_16	-4.254129116	2.372197309	1	medium
-Bacteria	Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	-2.788743242	2.38211237	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ercella	-3.858201215	2.416438356	1	medium
-Bacteria	Actinobacteria	Thermoleophilia	Gaiellales	uncultured	uncultured prokaryote	-4.018869651	2.430143014	1	medium
-Bacteria	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	uncultured	-3.754522914	2.442530359	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	-3.940505657	2.449760766	1	medium
-Bacteria	Actinobacteria	Thermoleophilia	Gaiellales	uncultured	uncultured organism	-4.648825536	2.461538462	1	medium
-Bacteria	Omnitrophicaeota	Candidatus Omnitrophus magneticus	Candidatus Omnitrophus magneticus	Candidatus Omnitrophus magneticus	Candidatus Omnitrophus magneticus	-4.523851556	2.461538462	1	medium
-Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	metagenome	metagenome	-3.573867378	2.468154158	1	medium
-Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	uncultured prokaryote	uncultured prokaryote	-4.144599449	2.469387755	1	medium
-Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Pelolinea	-4.429734384	2.482758621	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	LD29	-3.203186711	2.491265905	1	medium
-Bacteria	Tenericutes	Mollicutes	Acholeplasmatales	Acholeplasmataceae	Acholeplasma	-2.930617221	2.49442661	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 1	-3.993276127	2.503703704	1	medium
-Bacteria	Patescibacteria	Berkelbacteria	candidate division WS2 bacterium ADurb.Bin280	candidate division WS2 bacterium ADurb.Bin280	candidate division WS2 bacterium ADurb.Bin280	-3.761226955	2.544674407	1	medium
-Bacteria	Patescibacteria	Parcubacteria	unclassified_Parcubacteria	unclassified_Parcubacteria	unclassified_Parcubacteria	-3.439356685	2.546724891	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Sandaracinaceae	uncultured	-4.07697113	2.547368421	1	medium
-Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	-4.646828877	2.571428571	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Komeilibacteria	marine metagenome	marine metagenome	-4.552533961	2.571428571	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	NKB15	uncultured hydrocarbon seep bacterium BPC065	uncultured hydrocarbon seep bacterium BPC065	-4.585950686	2.571428571	1	medium
-Bacteria	Marinimicrobia (SAR406 clade)	uncultured Bacteroidetes/Chlorobi group bacterium	uncultured Bacteroidetes/Chlorobi group bacterium	uncultured Bacteroidetes/Chlorobi group bacterium	uncultured Bacteroidetes/Chlorobi group bacterium	-2.337848944	2.572528262	1	medium
-Bacteria	Planctomycetes	Pla3 lineage	unidentified bacterium wb1_E15	unidentified bacterium wb1_E15	unidentified bacterium wb1_E15	-4.509138744	2.578947368	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	uncultured bacterium	uncultured bacterium	-2.950114179	2.604042942	1	medium
-Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	Candidatus Staskawiczbacteria bacterium RIFOXYD1_FULL_37_73	Candidatus Staskawiczbacteria bacterium RIFOXYD1_FULL_37_73	-3.918754677	2.619937695	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	RBG-13-46-9	uncultured bacterium	uncultured bacterium	-4.417068839	2.631578947	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	marine metagenome	marine metagenome	marine metagenome	-4.529871187	2.631578947	1	medium
-Archaea	Diapherotrites	Micrarchaeia	Candidatus Micrarchaeota archaeon CG1_02_55_41	Candidatus Micrarchaeota archaeon CG1_02_55_41	Candidatus Micrarchaeota archaeon CG1_02_55_41	-3.692668277	2.649417853	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Methylacidiphilales	Methylacidiphilaceae	uncultured	-3.759465905	2.657162026	1	medium
-Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	Paludibaculum	-4.007795949	2.666666667	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Desulfobacca	-2.217086351	2.671621777	1	medium
-Bacteria	Patescibacteria	Berkelbacteria	unclassified_Berkelbacteria	unclassified_Berkelbacteria	unclassified_Berkelbacteria	-4.605231021	2.682539683	1	medium
-Bacteria	Acidobacteria	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	TPD-58	-4.334311931	2.688888889	1	medium
-Bacteria	Acidobacteria	Acidobacteriia	Subgroup 13	uncultured bacterium KF-JG30-18	uncultured bacterium KF-JG30-18	-4.268760621	2.688888889	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	iron-reducing bacterium enrichment culture clone HN105	-3.718681159	2.6896	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Chthoniobacterales	Terrimicrobiaceae	Terrimicrobium	-1.757426683	2.709311312	1	medium
-Bacteria	Dependentiae	Babeliae	Babeliales	candidate division TM6 bacterium GW2011_GWF2_37_49	candidate division TM6 bacterium GW2011_GWF2_37_49	-3.581865275	2.727530747	1	medium
-Bacteria	Atribacteria	JS1	Candidatus Atribacteria bacterium RBG_16_35_8	Candidatus Atribacteria bacterium RBG_16_35_8	Candidatus Atribacteria bacterium RBG_16_35_8	-2.652230973	2.731112746	1	medium
-Bacteria	Tenericutes	Mollicutes	unclassified_Mollicutes	unclassified_Mollicutes	unclassified_Mollicutes	-3.046276515	2.764281171	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	AKYH767	uncultured Sphingobacteriales bacterium	-5.065604925	2.777777778	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-010	-4.656334879	2.777777778	1	medium
-Bacteria	Patescibacteria	ABY1	unclassified_ABY1	unclassified_ABY1	unclassified_ABY1	-4.656334879	2.777777778	1	medium
-Bacteria	Patescibacteria	Parcubacteria	CG1-02-40-25	uncultured bacterium	uncultured bacterium	-4.656334879	2.777777778	1	medium
-Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	TSBb06	-4.473180863	2.793103448	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	-2.800505288	2.813362141	1	medium
-Bacteria	Proteobacteria	unclassified_Proteobacteria	unclassified_Proteobacteria	unclassified_Proteobacteria	unclassified_Proteobacteria	-3.154994883	2.832761836	1	medium
-Bacteria	Lentisphaerae	Oligosphaeria	Oligosphaerales	Lenti-02	Lentisphaerae bacterium RIFOXYA12_64_32	-4.23098449	2.844444444	1	medium
-Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	uncultured prokaryote	uncultured prokaryote	-4.222768782	2.853881279	1	medium
-Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	Candidatus Peregrinibacteria bacterium RIFOXYB2_FULL_41_88	Candidatus Peregrinibacteria bacterium RIFOXYB2_FULL_41_88	-3.982277997	2.861740167	1	medium
-Bacteria	Latescibacteria	Latescibacteria	Latescibacterales	Latescibacteraceae	Candidatus Latescibacter	-3.064082607	2.86307619	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	-4.437408248	2.86440678	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prolixibacteraceae	WCHB1-32	-4.496187858	2.882352941	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Kerfeldbacteria	uncultured bacterium	uncultured bacterium	-4.182543026	2.888	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Saccharofermentans	-4.432715981	2.909090909	1	medium
-Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-012	-4.105219872	2.919191919	1	medium
-Bacteria	Lentisphaerae	Oligosphaeria	Oligosphaerales	Lenti-02	uncultured Lentisphaerae bacterium	-3.464908007	2.941612604	1	medium
-Bacteria	Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	-2.285237836	2.944826614	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Dickeya	-4.173854174	2.962085308	1	medium
-Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	RBG-16-58-14	-4.288708108	2.964912281	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfomicrobiaceae	Desulfomicrobium	-4.380750702	2.964912281	1	medium
-Archaea	Diapherotrites	Iainarchaeia	Iainarchaeales	uncultured prokaryote	uncultured prokaryote	-3.715653275	2.964912281	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured microorganism	-4.209373665	3	1	medium
-Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	uncultured	-3.015869306	3.007096142	1	medium
-Bacteria	TA06	uncultured soil bacterium	uncultured soil bacterium	uncultured soil bacterium	uncultured soil bacterium	-2.471637247	3.018733864	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	-3.055770761	3.020619647	1	medium
-Bacteria	Chloroflexi	Anaerolineae	SJA-15	uncultured bacterium SHD-71	uncultured bacterium SHD-71	-3.565881631	3.035935564	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Verrucomicrobia bacterium ADurb.Bin118	-4.198950492	3.047619048	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	uncultured Desulfuromonadales bacterium	uncultured Desulfuromonadales bacterium	-2.999793361	3.061005745	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	SBYC-2600	uncultured organism	-3.887650793	3.070175439	1	medium
-Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	uncultured	uncultured Actinobacteridae bacterium	-4.250359055	3.082191781	1	medium
-Bacteria	Patescibacteria	ABY1	Candidatus Falkowbacteria	uncultured soil bacterium	uncultured soil bacterium	-4.219855757	3.085470085	1	medium
-Bacteria	Patescibacteria	Parcubacteria	CG1-02-42-13	Parcubacteria group bacterium CG1_02_42_13	Parcubacteria group bacterium CG1_02_42_13	-2.551944402	3.095496774	1	medium
-Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	-4.387009559	3.102564103	1	medium
-Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia bacterium JGI 0000039-E15	Marinimicrobia bacterium JGI 0000039-E15	Marinimicrobia bacterium JGI 0000039-E15	Marinimicrobia bacterium JGI 0000039-E15	-3.29797144	3.112724167	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	uncultured Owenweeksia sp.	-4.239590789	3.142857143	1	medium
-Bacteria	Patescibacteria	Berkelbacteria	Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10	Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10	Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10	-3.287187365	3.146359676	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27	Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27	Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27	-3.709799074	3.202964652	1	medium
-Bacteria	WOR-1	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	-4.089424295	3.205128205	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinilabiliaceae	uncultured	-2.108640261	3.217014529	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	Bacteroidetes bacterium GWF2_49_14	-2.464034754	3.220616968	1	medium
-Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Thiovulaceae	Sulfurimonas	-1.589179273	3.226062774	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiodictyon	-2.326089598	3.226360181	1	medium
-Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Longilinea	-4.02382909	3.226666667	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Saprospiraceae	Candidatus Aquirestis	-3.602388561	3.230979321	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	SR-FBR-L83	Ignavibacteria bacterium RIFOXYC2_FULL_38_25	-4.473190701	3.24	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiocystis	-3.277807751	3.243309649	1	medium
-Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	uncultured Desulfovibrio sp.	-3.120402137	3.24395172	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	uncultured	-2.798253196	3.251157159	1	medium
-Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	Lentisphaerae bacterium RIFOXYC12_FULL_60_16	Lentisphaerae bacterium RIFOXYC12_FULL_60_16	-4.111350703	3.252252252	1	medium
-Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	bacterium enrichment culture clone 56	bacterium enrichment culture clone 56	-4.577878791	3.266666667	1	medium
-Bacteria	Chloroflexi	Dehalococcoidia	GIF3	uncultured eubacterium t0.8.f	uncultured eubacterium t0.8.f	-4.343724948	3.266666667	1	medium
-Bacteria	Cyanobacteria	Oxyphotobacteria	Chloroplast	Mychonastes homosphaera	Mychonastes homosphaera	-4.614021012	3.266666667	1	medium
-Bacteria	Caldiserica	Caldisericia	Caldisericales	WCHB1-02	uncultured eubacterium WCHB1-02	-3.966266161	3.298642534	1	medium
-Bacteria	Patescibacteria	Parcubacteria	GWB1-42-6	Parcubacteria group bacterium GW2011_GWB1_42_6	Parcubacteria group bacterium GW2011_GWB1_42_6	-4.266109161	3.306122449	1	medium
-Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolineaceae UCG-001	-3.475787956	3.312	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured Prolixibacter sp.	-4.291930867	3.31372549	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	S15A-MN91	uncultured Bacteroidetes bacterium	-2.79369264	3.326802524	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured archaeon	uncultured archaeon	uncultured archaeon	-1.954686536	3.34292557	1	medium
-Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prolixibacteraceae	uncultured	-3.065798504	3.347215554	1	medium
-Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	uncultured soil bacterium	uncultured soil bacterium	-3.888155716	3.364812419	1	medium
-Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured archaeon CLEAR-24	uncultured archaeon CLEAR-24	uncultured archaeon CLEAR-24	-4.305649421	3.379310345	1	medium
-Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	metagenome	metagenome	-4.241120169	3.379310345	1	medium
-Bacteria	Bacteroidetes	Ignavibacteria	Kryptoniales	BSV26	denitrifying bacterium enrichment culture clone NOA_1_E9	-2.645651586	3.380413848	1	medium
-Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	-2.580801336	3.384830603	1	medium
+Bacteria	Chloroflexi	Dehalococcoidia	GIF9	AB-539-J10	unclassified_AB-539-J10	-4.810950525	2.777777778	1	other
+Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	unclassified_AKAU3564 sediment group	-3.470710657	2.850266025	1	other
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	unclassified_Anaerolineaceae	-2.402478443	2.225364676	1	other
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	unclassified_Bacillaceae	-3.374521058	2.018439305	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	unclassified_Burkholderiaceae	-3.82724866	1.433703799	1	other
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	unclassified_Chlorobiaceae	-4.755167417	2.461538462	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Cryomorphaceae	unclassified_Cryomorphaceae	-4.090824567	1.435133457	1	other
+Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	unclassified_Cyanobiaceae	-1.689071776	1.565598603	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	env.OPS 17	unclassified_env.OPS 17	-4.481670067	2.941176471	1	other
+Bacteria	Hydrogenedentes	Hydrogenedentia	Hydrogenedentiales	Hydrogenedensaceae	unclassified_Hydrogenedensaceae	-3.826299654	2.5995086	1	other
+Bacteria	Tenericutes	Mollicutes	Izimaplasmatales	Izimaplasmataceae	unclassified_Izimaplasmataceae	-2.613934783	2.626457907	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	Melioribacteraceae	unclassified_Melioribacteraceae	-3.113059892	1.442949617	1	other
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	unclassified_Microbacteriaceae	-3.58342637	2.634840871	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	unclassified_Mitochondria	-4.718026092	1.470588235	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	PHOS-HE36	unclassified_PHOS-HE36	-3.62182092	2.377555873	1	other
+Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	unclassified_Phycisphaeraceae	-3.969475107	2.37037037	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unclassified_Rhodobacteraceae	-4.31807569	2.279132791	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	unclassified_Ruminococcaceae	-3.418004812	2.319200276	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	SB-5	unclassified_SB-5	-3.32167801	1.702356793	1	other
+Bacteria	Dependentiae	Babeliae	Babeliales	UBA12411	unclassified_UBA12411	-3.782667998	1.539178082	1	other
+Bacteria	Dependentiae	Babeliae	Babeliales	Vermiphilaceae	unclassified_Vermiphilaceae	-3.959227545	3.04137931	1	other
+Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	unclassified_ADurb.Bin180	unclassified_ADurb.Bin180	-3.79997405	2.083333333	1	other
+Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	unclassified_Aminicenantales	unclassified_Aminicenantales	-4.19290366	1.967479675	1	other
+Bacteria	Dependentiae	Babeliae	Babeliales	unclassified_Babeliales	unclassified_Babeliales	-3.343773267	3.336652624	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	unclassified_Bacteroidales	unclassified_Bacteroidales	-2.237093775	1.555858288	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidetes VC2.1 Bac22	unclassified_Bacteroidetes VC2.1 Bac22	unclassified_Bacteroidetes VC2.1 Bac22	-3.838895926	2.002502085	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	unclassified_Betaproteobacteriales	unclassified_Betaproteobacteriales	-3.252142761	1.659373579	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Buchananbacteria	unclassified_Candidatus Buchananbacteria	unclassified_Candidatus Buchananbacteria	-4.463489289	1.8	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Moranbacteria	unclassified_Candidatus Moranbacteria	unclassified_Candidatus Moranbacteria	-1.437394352	1.411164754	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Nealsonbacteria	unclassified_Candidatus Nealsonbacteria	unclassified_Candidatus Nealsonbacteria	-3.702012659	1.941362916	1	other
+Bacteria	Patescibacteria	Microgenomatia	Candidatus Shapirobacteria	unclassified_Candidatus Shapirobacteria	unclassified_Candidatus Shapirobacteria	-3.616817893	3.316803081	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	unclassified_Candidatus Staskawiczbacteria	unclassified_Candidatus Staskawiczbacteria	-2.85816861	1.839737454	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Uhrbacteria	unclassified_Candidatus Uhrbacteria	unclassified_Candidatus Uhrbacteria	-4.716081584	2.777777778	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	GIF3	unclassified_GIF3	unclassified_GIF3	-4.671539774	2.777777778	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	GIF9	unclassified_GIF9	unclassified_GIF9	-2.370324525	2.566468085	1	other
+Bacteria	Patescibacteria	Parcubacteria	GWB1-42-6	unclassified_GWB1-42-6	unclassified_GWB1-42-6	-2.85497493	2.451318784	1	other
+Bacteria	Actinobacteria	Acidimicrobiia	IMCC26256	unclassified_IMCC26256	unclassified_IMCC26256	-3.896916674	1.818694223	1	other
+Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	unclassified_Lineage IV	unclassified_Lineage IV	-3.277899827	1.985122317	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	NKB15	unclassified_NKB15	unclassified_NKB15	-3.546483676	1.949332105	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	OPB56	unclassified_OPB56	unclassified_OPB56	-3.396432808	1.52267658	1	other
+Bacteria	Actinobacteria	Actinobacteria	PeM15	unclassified_PeM15	unclassified_PeM15	-4.472996474	2.805825243	1	other
+Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	unclassified_Saccharimonadales	unclassified_Saccharimonadales	-4.403295014	1.446494465	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	unclassified_Sva0485	unclassified_Sva0485	-3.347422236	2.657604218	1	other
+Bacteria	Lentisphaerae	Lentisphaeria	Victivallales	unclassified_Victivallales	unclassified_Victivallales	-4.030794725	1.800389484	1	other
+Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	unclassified_WCHB1-41	unclassified_WCHB1-41	-2.290892058	3.030607023	1	other
+Bacteria	Chloroflexi	Anaerolineae	SBR1031	uncultured bacterium	uncultured bacterium	-3.868709329	1.406593407	1	other
+Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	CL500-29 marine group	-3.497155379	1.408351929	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Bacteroidetes bacterium GWE2_42_24	-2.946563157	1.417416477	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	S15A-MN91	uncultured soil bacterium	-3.980613022	1.417943107	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	uncultured Sphingobacteriales bacterium	-3.983837677	1.418565401	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidetes VC2.1 Bac22	sediment metagenome	sediment metagenome	-3.119112117	1.43075193	1	other
+Bacteria	Bacteroidetes	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobium	-0.703650376	1.44297669	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Chromatium	-3.458709482	1.45163456	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	NS11-12 marine group	uncultured Flexibacteraceae bacterium	-5.019056088	1.470588235	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	uncultured	-4.886094051	1.470588235	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	Dehalococcoidales	uncultured	uncultured soil bacterium	-4.838122289	1.470588235	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	FTLpost3	uncultured Bacteroidetes bacterium	-4.554198496	1.470588235	1	other
+Bacteria	Patescibacteria	Gracilibacteria	Absconditabacteriales (SR1)	uncultured microorganism	uncultured microorganism	-4.528575841	1.470588235	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Peredibacter	-4.560144241	1.470588235	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Providencia	-4.560144241	1.470588235	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	GIF9	AB-539-J10	uncultured Dehalococcoidia bacterium	-3.960830634	1.525065963	1	other
+Bacteria	Actinobacteria	Actinobacteria	PeM15	bacterium rJ7	bacterium rJ7	-4.215282536	1.526382708	1	other
+Bacteria	Patescibacteria	WWE3	unclassified_WWE3	unclassified_WWE3	unclassified_WWE3	-4.139143167	1.528117359	1	other
+Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	metagenome	metagenome	-3.653819673	1.529779712	1	other
+Bacteria	Chloroflexi	KD4-96	bacterium Ellin6529	bacterium Ellin6529	bacterium Ellin6529	-4.118649355	1.530612245	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	GIF3	Dehalococcoidia bacterium SCGC AB-540-C11	Dehalococcoidia bacterium SCGC AB-540-C11	-3.172443486	1.544615744	1	other
+Bacteria	Chloroflexi	unclassified_Chloroflexi	unclassified_Chloroflexi	unclassified_Chloroflexi	unclassified_Chloroflexi	-3.717568808	1.544766709	1	other
+Bacteria	Patescibacteria	Parcubacteria	Paceibacterales	Paceibacteraceae	Candidatus Paceibacter	-3.919314982	1.553956835	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	uncultured	-4.11338881	1.555555556	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S-BQ2-57 soil group	uncultured Verrucomicrobium sp.	uncultured Verrucomicrobium sp.	-3.301752939	1.56050889	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	Kryptoniales	BSV26	Ignavibacteria bacterium RIFCSPLOWO2_12_FULL_56_21	-3.477988438	1.592840863	1	other
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Sphaerochaeta	-4.869189286	1.6	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	uncultured	-4.233224047	1.6	1	other
+Bacteria	Lentisphaerae	Lentisphaeria	Victivallales	PRD18C08	uncultured bacterium	-3.043884148	1.601099605	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	unclassified_Gammaproteobacteria	unclassified_Gammaproteobacteria	unclassified_Gammaproteobacteria	-3.384599552	1.6025878	1	other
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	hgcI clade	-3.606795641	1.603031721	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	B29	uncultured bacterium	uncultured bacterium	-4.720591482	1.60952381	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	-3.798982848	1.639376218	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured eubacterium WCHB1-53	-4.403133721	1.657534247	1	other
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1	-3.595264664	1.672359551	1	other
+Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	AKAU3564 sediment group	uncultured planctomycete	-4.191471089	1.674418605	1	other
+Archaea	Diapherotrites	Iainarchaeia	Iainarchaeales	metagenome	metagenome	-4.464483077	1.684210526	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	uncultured	uncultured bacterium	-4.433987594	1.689655172	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Polynucleobacter	-4.230474005	1.714768884	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Lentimicrobium	-3.025593625	1.743852263	1	other
+Bacteria	Patescibacteria	Gracilibacteria	uncultured bacterium	uncultured bacterium	uncultured bacterium	-3.366015947	1.758215255	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Campbellbacteria	Candidatus Campbellbacteria bacterium RIFOXYC2_FULL_35_25	Candidatus Campbellbacteria bacterium RIFOXYC2_FULL_35_25	-4.673376735	1.781818182	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	uncultured	uncultured soil bacterium	-4.116057421	1.781818182	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Nomurabacteria	uncultured Parcubacteria group bacterium	uncultured Parcubacteria group bacterium	-4.937506107	1.8	1	other
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Candidatus Marispirochaeta	-4.516030445	1.8	1	other
+Archaea	Diapherotrites	Micrarchaeia	uncultured euryarchaeote	uncultured euryarchaeote	uncultured euryarchaeote	-4.715213812	1.814814815	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Opitutaceae	IMCC26134	-4.438488234	1.814814815	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfatiferula	-4.30227167	1.820224719	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	unclassified_Dehalococcoidia	unclassified_Dehalococcoidia	unclassified_Dehalococcoidia	-2.889304094	1.836386514	1	other
+Bacteria	Actinobacteria	Actinobacteria	PeM15	Actinomycetales bacterium GP-5	Actinomycetales bacterium GP-5	-3.208837714	1.842191108	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	-4.213868673	1.845225027	1	other
+Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	IMCC26207	-4.502302999	1.851851852	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	-4.532122252	1.856140351	1	other
+Bacteria	Patescibacteria	Gracilibacteria	unclassified_Gracilibacteria	unclassified_Gracilibacteria	unclassified_Gracilibacteria	-3.782793449	1.857355126	1	other
+Bacteria	Gemmatimonadetes	BD2-11 terrestrial group	uncultured Gemmatimonadales bacterium HF0200_36I24	uncultured Gemmatimonadales bacterium HF0200_36I24	uncultured Gemmatimonadales bacterium HF0200_36I24	-4.079395489	1.857819905	1	other
+Bacteria	Chloroflexi	Anaerolineae	SBR1031	terrestrial metagenome	terrestrial metagenome	-3.187959486	1.867808686	1	other
+Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Cyanobium PCC-6307	-3.051095474	1.874089934	1	other
+Bacteria	Actinobacteria	WCHB1-81	unclassified_WCHB1-81	unclassified_WCHB1-81	unclassified_WCHB1-81	-3.431534301	1.876923077	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Anaerovorax	-4.144691985	1.880694143	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	ER-E4-17	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	-4.404745415	1.882352941	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	TC1	Clostridiales bacterium enrichment culture clone 2z-3	-3.434346982	1.890625	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Massilia	-4.265930828	1.905882353	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Lamprocystis	-3.50083649	1.911053627	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Kerfeldbacteria	Parcubacteria group bacterium ADurb.Bin326	Parcubacteria group bacterium ADurb.Bin326	-5.163288104	1.923076923	1	other
+Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	Candidatus Peregrinibacteria bacterium RIFCSPLOWO2_01_FULL_48_20	Candidatus Peregrinibacteria bacterium RIFCSPLOWO2_01_FULL_48_20	-4.821749363	1.923076923	1	other
+Bacteria	Chloroflexi	KD4-96	uncultured Longilinea sp.	uncultured Longilinea sp.	uncultured Longilinea sp.	-4.74691098	1.923076923	1	other
+Bacteria	Cloacimonetes	Cloacimonadia	Cloacimonadales	MSBL8	uncultured organism	-3.43535151	1.924104757	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Falkowbacteria	Candidatus Falkowbacteria bacterium RIFOXYD2_FULL_34_120	Candidatus Falkowbacteria bacterium RIFOXYD2_FULL_34_120	-4.32797725	1.931428571	1	other
+Bacteria	WOR-1	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	candidate division WOR-1 bacterium RIFOXYA12_FULL_43_27	-3.612314389	1.940831296	1	other
+Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	uncultured Clostridiaceae bacterium	uncultured Clostridiaceae bacterium	-3.490049119	1.94220468	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	Neisseria	-4.083643888	1.952748312	1	other
+Bacteria	Dependentiae	Babeliae	Babeliales	UBA12411	uncultured deep-sea bacterium	-4.627166394	1.96	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	ADurb.Bin408	Bacteroidetes bacterium ADurb.Bin408	-4.056486462	1.96	1	other
+Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	metagenome	-3.514256802	1.969474576	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	-2.164525162	1.97780452	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	-4.074888515	1.989085948	1	other
+Bacteria	uncultured	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	-4.680807226	2	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Paludibacteraceae	Paludibacter	-2.665927263	2.02910849	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	Sh765B-TzT-20	uncultured Chlorobi bacterium	uncultured Chlorobi bacterium	-4.23351314	2.050632911	1	other
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae UCG-004	-3.379022772	2.05854524	1	other
+Bacteria	Acidobacteria	Subgroup 6	unclassified_Subgroup 6	unclassified_Subgroup 6	unclassified_Subgroup 6	-3.368465403	2.066202825	1	other
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	-3.856991753	2.07896735	1	other
+Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	Verrucomicrobia bacterium ADurb.Bin070	Verrucomicrobia bacterium ADurb.Bin070	-3.839379689	2.110749186	1	other
+Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Sulfurovaceae	Sulfurovum	-2.270211312	2.118543733	1	other
+Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	uncultured Planctomycetes Sva0500	uncultured Planctomycetes Sva0500	-4.340534265	2.137829912	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	GIF3	uncultured Chlorobi bacterium	uncultured Chlorobi bacterium	-3.688045419	2.148890092	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	-3.955152581	2.156299841	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidetes VC2.1 Bac22	uncultured bacterium GR-WP33-68	uncultured bacterium GR-WP33-68	-3.228009828	2.156772199	1	other
+Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	Elusimicrobia bacterium CG1_02_56_21	Elusimicrobia bacterium CG1_02_56_21	-4.146328046	2.163449163	1	other
+Bacteria	Calditrichaeota	Calditrichia	Calditrichales	Calditrichaceae	uncultured Sulfuricurvum sp.	-4.48118688	2.172932331	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingorhabdus	-4.658730559	2.173913043	1	other
+Bacteria	Actinobacteria	WCHB1-81	Actinobacteria bacterium RBG_19FT_COMBO_36_27	Actinobacteria bacterium RBG_19FT_COMBO_36_27	Actinobacteria bacterium RBG_19FT_COMBO_36_27	-2.381792308	2.177542716	1	other
+Bacteria	Chloroflexi	Anaerolineae	unclassified_Anaerolineae	unclassified_Anaerolineae	unclassified_Anaerolineae	-4.202937259	2.187878788	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfocapsa	-2.560423569	2.190675719	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herbaspirillum	-3.058265682	2.19133913	1	other
+Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	uncultured soil bacterium	uncultured soil bacterium	-2.086238757	2.198217039	1	other
+Bacteria	Actinobacteria	Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	-4.077677646	2.203482046	1	other
+Bacteria	Actinobacteria	RBG-16-55-12	Actinobacteria bacterium RBG_16_55_12	Actinobacteria bacterium RBG_16_55_12	Actinobacteria bacterium RBG_16_55_12	-3.717852419	2.213188799	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	LKC2.127-25	uncultured bacterium	-3.665833291	2.213510848	1	other
+Bacteria	Caldiserica	Caldisericia	Caldisericales	WCHB1-02	uncultured Firmicutes bacterium	-4.178254054	2.219178082	1	other
+Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Thiovulaceae	Sulfuricurvum	-2.232755407	2.223645368	1	other
+Bacteria	Actinobacteria	WCHB1-81	uncultured eubacterium WCHB1-81	uncultured eubacterium WCHB1-81	uncultured eubacterium WCHB1-81	-2.974524988	2.250923449	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	unidentified archaeon	unidentified archaeon	unidentified archaeon	-4.765699982	2.272727273	1	other
+Bacteria	Nitrospirae	Thermodesulfovibrionia	uncultured	Nitrospirae bacterium GWF2_44_13	Nitrospirae bacterium GWF2_44_13	-4.873595262	2.272727273	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Uhrbacteria	Candidatus Uhrbacteria bacterium GW2011_GWF2_41_40	Candidatus Uhrbacteria bacterium GW2011_GWF2_41_40	-4.873595262	2.272727273	1	other
+Archaea	Euryarchaeota	unclassified_Euryarchaeota	unclassified_Euryarchaeota	unclassified_Euryarchaeota	unclassified_Euryarchaeota	-4.790106068	2.272727273	1	other
+Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17	Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17	-4.737785629	2.272727273	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	-4.193283815	2.281191806	1	other
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	-3.382006638	2.28490978	1	other
+Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	uncultured Thermoanaerobacteraceae bacterium	uncultured Thermoanaerobacteraceae bacterium	-3.364312343	2.29594306	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured Geobacter sp.	-3.839055931	2.300840336	1	other
+Bacteria	Firmicutes	unclassified_Firmicutes	unclassified_Firmicutes	unclassified_Firmicutes	unclassified_Firmicutes	-2.914040011	2.302309795	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	uncultured soil bacterium	uncultured soil bacterium	-4.556162494	2.314285714	1	other
+Bacteria	Calditrichaeota	Calditrichia	Calditrichales	Calditrichaceae	uncultured Caldithrix sp.	-4.289620471	2.322580645	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured Sphingobacteriia bacterium	-3.800027782	2.32534105	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	unclassified_Deltaproteobacteria	unclassified_Deltaproteobacteria	unclassified_Deltaproteobacteria	-2.953051739	2.330398488	1	other
+Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	GOUTB8	-4.600072877	2.333333333	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	-4.438497316	2.333333333	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	uncultured archaeon	-3.000495909	2.336623299	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	Parcubacteria group bacterium GW2011_GWC2_32_10	Parcubacteria group bacterium GW2011_GWC2_32_10	-3.501322904	2.338801889	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured euryarchaeote	uncultured euryarchaeote	uncultured euryarchaeote	-2.846614835	2.35053952	1	other
+Bacteria	Patescibacteria	Gracilibacteria	JGI 0000069-P22	uncultured Candidatus Gracilibacteria bacterium	uncultured Candidatus Gracilibacteria bacterium	-4.315801446	2.358490566	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7	Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7	Candidatus Staskawiczbacteria bacterium RIFOXYA2_FULL_32_7	-3.00700729	2.358736525	1	other
+Bacteria	Cyanobacteria	Melainabacteria	Gastranaerophilales	Candidatus Melainabacteria bacterium RIFOXYA2_FULL_32_9	Candidatus Melainabacteria bacterium RIFOXYA2_FULL_32_9	-3.903925695	2.362893816	1	other
+Bacteria	Omnitrophicaeota	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12	-2.923772409	2.364208265	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	BSV40	uncultured bacterium	-3.397765126	2.367630058	1	other
+Bacteria	Dependentiae	Babeliae	Babeliales	Babeliaceae	candidate division TM6 bacterium GW2011_GWE2_41_16	-4.254129116	2.372197309	1	other
+Bacteria	Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	unclassified_Actinobacteria	-2.788743242	2.38211237	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ercella	-3.858201215	2.416438356	1	other
+Bacteria	Actinobacteria	Thermoleophilia	Gaiellales	uncultured	uncultured prokaryote	-4.018869651	2.430143014	1	other
+Bacteria	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	uncultured	-3.754522914	2.442530359	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	-3.940505657	2.449760766	1	other
+Bacteria	Actinobacteria	Thermoleophilia	Gaiellales	uncultured	uncultured organism	-4.648825536	2.461538462	1	other
+Bacteria	Omnitrophicaeota	Candidatus Omnitrophus magneticus	Candidatus Omnitrophus magneticus	Candidatus Omnitrophus magneticus	Candidatus Omnitrophus magneticus	-4.523851556	2.461538462	1	other
+Bacteria	Chloroflexi	Anaerolineae	RBG-13-54-9	metagenome	metagenome	-3.573867378	2.468154158	1	other
+Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	uncultured prokaryote	uncultured prokaryote	-4.144599449	2.469387755	1	other
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Pelolinea	-4.429734384	2.482758621	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	LD29	-3.203186711	2.491265905	1	other
+Bacteria	Tenericutes	Mollicutes	Acholeplasmatales	Acholeplasmataceae	Acholeplasma	-2.930617221	2.49442661	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 1	-3.993276127	2.503703704	1	other
+Bacteria	Patescibacteria	Berkelbacteria	candidate division WS2 bacterium ADurb.Bin280	candidate division WS2 bacterium ADurb.Bin280	candidate division WS2 bacterium ADurb.Bin280	-3.761226955	2.544674407	1	other
+Bacteria	Patescibacteria	Parcubacteria	unclassified_Parcubacteria	unclassified_Parcubacteria	unclassified_Parcubacteria	-3.439356685	2.546724891	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Sandaracinaceae	uncultured	-4.07697113	2.547368421	1	other
+Bacteria	Chloroflexi	Anaerolineae	ADurb.Bin180	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	-4.646828877	2.571428571	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Komeilibacteria	marine metagenome	marine metagenome	-4.552533961	2.571428571	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	NKB15	uncultured hydrocarbon seep bacterium BPC065	uncultured hydrocarbon seep bacterium BPC065	-4.585950686	2.571428571	1	other
+Bacteria	Marinimicrobia (SAR406 clade)	uncultured Bacteroidetes/Chlorobi group bacterium	uncultured Bacteroidetes/Chlorobi group bacterium	uncultured Bacteroidetes/Chlorobi group bacterium	uncultured Bacteroidetes/Chlorobi group bacterium	-2.337848944	2.572528262	1	other
+Bacteria	Planctomycetes	Pla3 lineage	unidentified bacterium wb1_E15	unidentified bacterium wb1_E15	unidentified bacterium wb1_E15	-4.509138744	2.578947368	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	uncultured bacterium	uncultured bacterium	-2.950114179	2.604042942	1	other
+Bacteria	Patescibacteria	Parcubacteria	Candidatus Staskawiczbacteria	Candidatus Staskawiczbacteria bacterium RIFOXYD1_FULL_37_73	Candidatus Staskawiczbacteria bacterium RIFOXYD1_FULL_37_73	-3.918754677	2.619937695	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	RBG-13-46-9	uncultured bacterium	uncultured bacterium	-4.417068839	2.631578947	1	other
+Bacteria	Patescibacteria	Gracilibacteria	marine metagenome	marine metagenome	marine metagenome	-4.529871187	2.631578947	1	other
+Archaea	Diapherotrites	Micrarchaeia	Candidatus Micrarchaeota archaeon CG1_02_55_41	Candidatus Micrarchaeota archaeon CG1_02_55_41	Candidatus Micrarchaeota archaeon CG1_02_55_41	-3.692668277	2.649417853	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Methylacidiphilales	Methylacidiphilaceae	uncultured	-3.759465905	2.657162026	1	other
+Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	Paludibaculum	-4.007795949	2.666666667	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Desulfobacca	-2.217086351	2.671621777	1	other
+Bacteria	Patescibacteria	Berkelbacteria	unclassified_Berkelbacteria	unclassified_Berkelbacteria	unclassified_Berkelbacteria	-4.605231021	2.682539683	1	other
+Bacteria	Acidobacteria	Thermoanaerobaculia	Thermoanaerobaculales	Thermoanaerobaculaceae	TPD-58	-4.334311931	2.688888889	1	other
+Bacteria	Acidobacteria	Acidobacteriia	Subgroup 13	uncultured bacterium KF-JG30-18	uncultured bacterium KF-JG30-18	-4.268760621	2.688888889	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	iron-reducing bacterium enrichment culture clone HN105	-3.718681159	2.6896	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Chthoniobacterales	Terrimicrobiaceae	Terrimicrobium	-1.757426683	2.709311312	1	other
+Bacteria	Dependentiae	Babeliae	Babeliales	candidate division TM6 bacterium GW2011_GWF2_37_49	candidate division TM6 bacterium GW2011_GWF2_37_49	-3.581865275	2.727530747	1	other
+Bacteria	Atribacteria	JS1	Candidatus Atribacteria bacterium RBG_16_35_8	Candidatus Atribacteria bacterium RBG_16_35_8	Candidatus Atribacteria bacterium RBG_16_35_8	-2.652230973	2.731112746	1	other
+Bacteria	Tenericutes	Mollicutes	unclassified_Mollicutes	unclassified_Mollicutes	unclassified_Mollicutes	-3.046276515	2.764281171	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	AKYH767	uncultured Sphingobacteriales bacterium	-5.065604925	2.777777778	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-010	-4.656334879	2.777777778	1	other
+Bacteria	Patescibacteria	ABY1	unclassified_ABY1	unclassified_ABY1	unclassified_ABY1	-4.656334879	2.777777778	1	other
+Bacteria	Patescibacteria	Parcubacteria	CG1-02-40-25	uncultured bacterium	uncultured bacterium	-4.656334879	2.777777778	1	other
+Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	TSBb06	-4.473180863	2.793103448	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	-2.800505288	2.813362141	1	other
+Bacteria	Proteobacteria	unclassified_Proteobacteria	unclassified_Proteobacteria	unclassified_Proteobacteria	unclassified_Proteobacteria	-3.154994883	2.832761836	1	other
+Bacteria	Lentisphaerae	Oligosphaeria	Oligosphaerales	Lenti-02	Lentisphaerae bacterium RIFOXYA12_64_32	-4.23098449	2.844444444	1	other
+Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	uncultured prokaryote	uncultured prokaryote	-4.222768782	2.853881279	1	other
+Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	Candidatus Peregrinibacteria bacterium RIFOXYB2_FULL_41_88	Candidatus Peregrinibacteria bacterium RIFOXYB2_FULL_41_88	-3.982277997	2.861740167	1	other
+Bacteria	Latescibacteria	Latescibacteria	Latescibacterales	Latescibacteraceae	Candidatus Latescibacter	-3.064082607	2.86307619	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	-4.437408248	2.86440678	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prolixibacteraceae	WCHB1-32	-4.496187858	2.882352941	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Kerfeldbacteria	uncultured bacterium	uncultured bacterium	-4.182543026	2.888	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Saccharofermentans	-4.432715981	2.909090909	1	other
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-012	-4.105219872	2.919191919	1	other
+Bacteria	Lentisphaerae	Oligosphaeria	Oligosphaerales	Lenti-02	uncultured Lentisphaerae bacterium	-3.464908007	2.941612604	1	other
+Bacteria	Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	unclassified_Marinimicrobia_SAR406	-2.285237836	2.944826614	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Dickeya	-4.173854174	2.962085308	1	other
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	RBG-16-58-14	-4.288708108	2.964912281	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfomicrobiaceae	Desulfomicrobium	-4.380750702	2.964912281	1	other
+Archaea	Diapherotrites	Iainarchaeia	Iainarchaeales	uncultured prokaryote	uncultured prokaryote	-3.715653275	2.964912281	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured microorganism	-4.209373665	3	1	other
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	uncultured	-3.015869306	3.007096142	1	other
+Bacteria	TA06	uncultured soil bacterium	uncultured soil bacterium	uncultured soil bacterium	uncultured soil bacterium	-2.471637247	3.018733864	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	-3.055770761	3.020619647	1	other
+Bacteria	Chloroflexi	Anaerolineae	SJA-15	uncultured bacterium SHD-71	uncultured bacterium SHD-71	-3.565881631	3.035935564	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Verrucomicrobia bacterium ADurb.Bin118	-4.198950492	3.047619048	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	uncultured Desulfuromonadales bacterium	uncultured Desulfuromonadales bacterium	-2.999793361	3.061005745	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	SBYC-2600	uncultured organism	-3.887650793	3.070175439	1	other
+Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	uncultured	uncultured Actinobacteridae bacterium	-4.250359055	3.082191781	1	other
+Bacteria	Patescibacteria	ABY1	Candidatus Falkowbacteria	uncultured soil bacterium	uncultured soil bacterium	-4.219855757	3.085470085	1	other
+Bacteria	Patescibacteria	Parcubacteria	CG1-02-42-13	Parcubacteria group bacterium CG1_02_42_13	Parcubacteria group bacterium CG1_02_42_13	-2.551944402	3.095496774	1	other
+Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	-4.387009559	3.102564103	1	other
+Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia bacterium JGI 0000039-E15	Marinimicrobia bacterium JGI 0000039-E15	Marinimicrobia bacterium JGI 0000039-E15	Marinimicrobia bacterium JGI 0000039-E15	-3.29797144	3.112724167	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	uncultured Owenweeksia sp.	-4.239590789	3.142857143	1	other
+Bacteria	Patescibacteria	Berkelbacteria	Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10	Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10	Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10	-3.287187365	3.146359676	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27	Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27	Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_34_27	-3.709799074	3.202964652	1	other
+Bacteria	WOR-1	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	candidate division WOR-1 bacterium RIFCSPHIGHO2_01_FULL_53_15	-4.089424295	3.205128205	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinilabiliaceae	uncultured	-2.108640261	3.217014529	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes BD2-2	Bacteroidetes bacterium GWF2_49_14	-2.464034754	3.220616968	1	other
+Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Thiovulaceae	Sulfurimonas	-1.589179273	3.226062774	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiodictyon	-2.326089598	3.226360181	1	other
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Longilinea	-4.02382909	3.226666667	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Saprospiraceae	Candidatus Aquirestis	-3.602388561	3.230979321	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	Ignavibacteriales	SR-FBR-L83	Ignavibacteria bacterium RIFOXYC2_FULL_38_25	-4.473190701	3.24	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiocystis	-3.277807751	3.243309649	1	other
+Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	uncultured Desulfovibrio sp.	-3.120402137	3.24395172	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	uncultured	-2.798253196	3.251157159	1	other
+Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	Lentisphaerae bacterium RIFOXYC12_FULL_60_16	Lentisphaerae bacterium RIFOXYC12_FULL_60_16	-4.111350703	3.252252252	1	other
+Bacteria	Proteobacteria	Deltaproteobacteria	Sva0485	bacterium enrichment culture clone 56	bacterium enrichment culture clone 56	-4.577878791	3.266666667	1	other
+Bacteria	Chloroflexi	Dehalococcoidia	GIF3	uncultured eubacterium t0.8.f	uncultured eubacterium t0.8.f	-4.343724948	3.266666667	1	other
+Bacteria	Cyanobacteria	Oxyphotobacteria	Chloroplast	Mychonastes homosphaera	Mychonastes homosphaera	-4.614021012	3.266666667	1	other
+Bacteria	Caldiserica	Caldisericia	Caldisericales	WCHB1-02	uncultured eubacterium WCHB1-02	-3.966266161	3.298642534	1	other
+Bacteria	Patescibacteria	Parcubacteria	GWB1-42-6	Parcubacteria group bacterium GW2011_GWB1_42_6	Parcubacteria group bacterium GW2011_GWB1_42_6	-4.266109161	3.306122449	1	other
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolineaceae UCG-001	-3.475787956	3.312	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	uncultured Prolixibacter sp.	-4.291930867	3.31372549	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	S15A-MN91	uncultured Bacteroidetes bacterium	-2.79369264	3.326802524	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured archaeon	uncultured archaeon	uncultured archaeon	-1.954686536	3.34292557	1	other
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prolixibacteraceae	uncultured	-3.065798504	3.347215554	1	other
+Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV	uncultured soil bacterium	uncultured soil bacterium	-3.888155716	3.364812419	1	other
+Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured archaeon CLEAR-24	uncultured archaeon CLEAR-24	uncultured archaeon CLEAR-24	-4.305649421	3.379310345	1	other
+Bacteria	Acidobacteria	Aminicenantia	Aminicenantales	metagenome	metagenome	-4.241120169	3.379310345	1	other
+Bacteria	Bacteroidetes	Ignavibacteria	Kryptoniales	BSV26	denitrifying bacterium enrichment culture clone NOA_1_E9	-2.645651586	3.380413848	1	other
+Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	-2.580801336	3.384830603	1	other
 Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidetes vadinHA17	unclassified_Bacteroidetes vadinHA17	-3.141436004	3.821092862	2	generalist
 Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	unclassified_Chromatiaceae	-3.490070215	4.426778243	2	generalist
 Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	unclassified_Desulfobacteraceae	-3.448414317	4.414648381	2	generalist

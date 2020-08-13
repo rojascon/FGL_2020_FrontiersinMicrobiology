@@ -13,7 +13,7 @@ new_col=c("#7fc97f","#beaed4","#fdc086")
 
 #plot ASV niche breadth vs. ASV average relative abundance across water column samples
 #each sample was color-coded by niche breadth category:
-#0-specialist #1-medium (i.e. average niche breadth) 2-generalist
+#0-specialist #1-other (i.e. average niche breadth) 2-generalist
 
 niche_wc=ggplot(data=niche)+ 
   geom_point(mapping=aes(x = MeanRelAbund, y = niche_breadth, colour = category))+
@@ -21,8 +21,7 @@ niche_wc=ggplot(data=niche)+
   scale_y_continuous(breaks=seq(from=1, to=5, by=1))+
   labs(y="Levin's niche breadth",
        x="ASV Average Relative Abundance (log)",
-       colour="",
-       title="Niche breadth -- water column samples")+
+       colour="")+
   theme_bw()+  
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
@@ -44,5 +43,3 @@ ggsave(filename="wc_niche.pdf",
        height=4,
        units="in",
        dpi=400)
-
-61--
