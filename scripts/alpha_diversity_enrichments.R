@@ -11,11 +11,15 @@ meta_data=read.table("data/enrichments_meta.txt", sep="\t", header=T)
 
 #merge alpha-diversity with metadata
 am=alpha_met=merge(div, meta_data, by="sample")
+#am=final[complete.cases(am), ]
 am$CarbonSource<-factor(am$CarbonSource, 
                         levels=c("NoC", "methane","acetate",
                                  "propionate","butyrate","lignin",
                                  "chitin","cellulose"))
 View(am)
+
+#obtain mean diversity values for a particular group
+mean(am$shannon[am$CarbonSource=="propionate"], na.rm=T)
 
 #run kruskal wallis test and post-hoc test
 print(
