@@ -1,5 +1,5 @@
 #Fayettevielle Green Lake Manuscript
-#FrontiersinMicrobiology (Rojast et al 2020)
+#FrontiersinMicrobiology (Rojas et al 2020)
 #Script to generate alpha diversity boxplots and kruskal-wallis test for ENRICHMENTS
 
 source(file="scripts/background.R") #load necessary packages and specifications
