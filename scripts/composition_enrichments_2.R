@@ -5,7 +5,7 @@
 source(file="scripts/background.R") #load necessary packages and specifications
 
 #read in your data
-taxa=read.table("data/enrichments_otu.txt", sep="\t", header=T)
+asv=read.table("data/enrichments_otu.txt", sep="\t", header=T)
 meta_data=read.table("data/enrichments_meta.txt", sep="\t", header=T)
 
 meta_data$CarbonSource<-factor(meta_data$CarbonSource, 
@@ -15,7 +15,7 @@ meta_data$CarbonSource<-factor(meta_data$CarbonSource,
 
 #select your taxonomic level
 #1-Kingdom 2-Phylum 3-Class 4-Order 5-Family 6-Genus
-taxa<-taxa[, c(5, 7:ncol(taxa))] 
+taxa<-asv[, c(5, 7:ncol(asv))] 
 print(colnames(taxa[1])); colnames(taxa)[1]="Taxa"
 
 #calculate proportions of bacterial taxa
@@ -23,7 +23,7 @@ taxa_rel=aggregate(.~Taxa, taxa, sum)
 taxa_rel[,-1] <- lapply(taxa_rel[,-1], function(x) (x/sum(x))*100) 
 print(colSums(taxa_rel[-1]))   
 
-#select taxa >1% relative abundance
+#select taxa >0.23% relative abundance
 taxa_rel$AVG=rowMeans(taxa_rel[-1])
 taxa_rel=taxa_rel[taxa_rel$AVG>0.23,]; taxa_rel$AVG=NULL  
 rownames(taxa_rel)=taxa_rel$Taxa; taxa_rel$Taxa=NULL  
@@ -35,12 +35,21 @@ taxa_rel$taxon=rtaxon
 
 #merge taxa abundance table with metadata
 taxa_meta=merge(taxa_rel, meta_data, by="sample") 
+phylum_labels=asv[, c(2,5)]
+colnames(phylum_labels)[2]="taxon"
+
+#sort data frame by phylum, so bacterial families are organized by their phylum
+taxa_meta2=merge(taxa_meta, phylum_labels, by="taxon")
+taxa_meta2=taxa_meta2[order(taxa_meta2$phylum, decreasing=TRUE),]
+my.order=unique(taxa_meta2$taxon)
+taxa_meta2$taxon=factor(taxa_meta2$taxon, levels=my.order)
 
 #generate bubble plot
 new_col=c("#66c2a5","#fdc086","#c994c7")
 
-bubble=ggplot(data=taxa_meta)+ 
-  geom_point(mapping=aes(x = ElectronAcceptor, y = taxon, size = abun, colour=ElectronAcceptor),
+bubble=ggplot(data=taxa_meta2)+ 
+  geom_point(mapping=aes(x = ElectronAcceptor, y = taxon, 
+                         size = abun, colour=ElectronAcceptor),
              stat="identity")+
   facet_grid(facets=.~CarbonSource,
              scales="free_x")+ 
@@ -62,7 +71,7 @@ plot(bubble)
 ggsave(filename="enrich_bubble.pdf",
        device="pdf",path="./images",
        plot=bubble,
-       width=10,
-       height=7,
+       width=11,
+       height=7.5,
        units="in",
        dpi=400)
