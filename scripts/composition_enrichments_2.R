@@ -45,7 +45,7 @@ my.order=unique(taxa_meta2$taxon)
 taxa_meta2$taxon=factor(taxa_meta2$taxon, levels=my.order)
 
 #generate bubble plot
-new_col=c("#66c2a5","#fdc086","#c994c7")
+new_col=c("#66c2a5", "#e78ac3", "#fdc086")
 
 bubble=ggplot(data=taxa_meta2)+ 
   geom_point(mapping=aes(x = ElectronAcceptor, y = taxon, 
@@ -63,6 +63,7 @@ bubble=ggplot(data=taxa_meta2)+
         axis.text.x=element_blank(),
         axis.text.y=element_text(size=11),
         axis.ticks.x=element_blank(),
+        strip.text = element_text(size =11),
         panel.background = element_rect(size=2))
 
 plot(bubble)
