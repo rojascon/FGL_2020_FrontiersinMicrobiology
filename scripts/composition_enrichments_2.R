@@ -69,10 +69,11 @@ bubble=ggplot(data=taxa_meta2)+
 plot(bubble)
 
 ##save image 
+#save as eps by doing device="eps" and library(svglite)
 ggsave(filename="enrich_bubble.pdf",
        device="pdf",path="./images",
        plot=bubble,
        width=11,
        height=7.5,
        units="in",
-       dpi=400)
+       dpi=500)
