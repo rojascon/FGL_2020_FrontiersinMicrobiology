@@ -5,7 +5,7 @@
 source(file="scripts/background.R") #load necessary packages and specifications
 
 #read in your data
-div=read.table("data/enrichments_diversity.txt", sep="\t", header=T)
+div=read.table("data/enrichments_diversity_2021.txt", sep="\t", header=T)
 #colnames(div)[1]= "sample"
 meta_data=read.table("data/enrichments_meta.txt", sep="\t", header=T)
 
@@ -18,16 +18,22 @@ am$CarbonSource<-factor(am$CarbonSource,
                                  "chitin","cellulose"))
 View(am)
 
-#obtain mean diversity values for a particular group
-mean(am$shannon[am$CarbonSource=="propionate"], na.rm=T)
+#obtain mean diversity values for each carbon source
+aggregate(shannon~CarbonSource,am, mean )
 
 #run kruskal wallis test and post-hoc test
 print(
-  kruskal.test(am$chao1~as.factor(am$CarbonSource))
+  kruskal.test(am$shannon~as.factor(am$CarbonSource))
 )
 print(
-  dunnTest(am$chao1~as.factor(am$CarbonSource),data=am,method="bh")
+  dunnTest(am$shannon~as.factor(am$CarbonSource),data=am,method="bh")
 )
+
+mod=lm(shannon~CarbonSource*ElectronAcceptor, data=am)
+
+summary(glht(mod, 
+             linfct=mcp(ElectronAcceptor="Tukey")),
+        test=adjusted("BH"))
 
 #generate alpha-diversity boxplots
 box_col=c("#66c2a5", "#e78ac3", "#fdc086")
@@ -50,7 +56,7 @@ alphabox=ggplot(data=am)+
         legend.title=element_text(size=11, face="bold"),
         legend.text=element_text(size=11),
         panel.background = element_rect(size=1.3, color="black"),
-        strip.text = element_text(size=11, face="bold"))
+        strip.text = element_text(size=10, face="bold"))
 
 plot(alphabox)
 

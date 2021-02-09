@@ -6,7 +6,7 @@
 source(file="scripts/background.R") #load necessary packages and specifications
 
 #read in your data
-taxa=read.table("data/enrichments_otu.txt", sep="\t", header=T)
+taxa=read.table("data/enrichments_otu_2021.txt", sep="\t", header=T)
 meta_data=read.table("data/enrichments_meta.txt", sep="\t", header=T)
 
 meta_data$CarbonSource<-factor(meta_data$CarbonSource, 
@@ -55,7 +55,7 @@ enrich_pcoa=ggplot(pcoa_met, aes(Axis1, Axis2))+
   geom_point(mapping=aes(colour=CarbonSource,
                          shape=ElectronAcceptor), size = 5)+
   scale_colour_manual(values=box_col)+
-  labs(y="PC2 (10.93%)",x="PC1 (24.23%)",
+  labs(y="PC2 (11.05%)",x="PC1 (22.76%)",
        colour="Carbon Source", 
        shape="Electron Acceptor")+
   theme_bw()+
@@ -135,7 +135,7 @@ bray_enrich=ggplot(data=df2)+
                            y=sim))+
   facet_grid(.~carbon_1, labeller = labeller(carbon_1=carbon.labs))+
   theme_bw()+ 
-  labs(y="Bray-Curtis Distance", 
+  labs(y="Bray-Curtis Similarity", 
        x="")+
   theme(axis.title.y=element_text(size=12, color="black",face="bold"),
         axis.text.y=element_text(size=11),
@@ -144,7 +144,7 @@ bray_enrich=ggplot(data=df2)+
         panel.background = element_rect(size=2),
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
-        strip.text = element_text(size=11, face="bold"))
+        strip.text = element_text(size=10, face="bold"))
 
 plot(bray_enrich)
 

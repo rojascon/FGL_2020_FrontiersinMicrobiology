@@ -5,7 +5,7 @@
 source(file="scripts/background.R") #load necessary packages and specifications
 
 #read in your data
-asv=read.table("data/enrichments_otu.txt", sep="\t", header=T)
+asv=read.table("data/enrichments_otu_2021.txt", sep="\t", header=T)
 meta_data=read.table("data/enrichments_meta.txt", sep="\t", header=T)
 
 meta_data$CarbonSource<-factor(meta_data$CarbonSource, 
@@ -40,7 +40,7 @@ colnames(phylum_labels)[2]="taxon"
 
 #sort data frame by phylum, so bacterial families are organized by their phylum
 taxa_meta2=merge(taxa_meta, phylum_labels, by="taxon")
-taxa_meta2=taxa_meta2[order(taxa_meta2$phylum, decreasing=TRUE),]
+taxa_meta2=taxa_meta2[order(taxa_meta2$Phylum, decreasing=TRUE),]
 my.order=unique(taxa_meta2$taxon)
 taxa_meta2$taxon=factor(taxa_meta2$taxon, levels=my.order)
 
@@ -61,7 +61,7 @@ bubble=ggplot(data=taxa_meta2)+
         legend.title=element_text(size=12, color="black",face="bold"),
         legend.text=element_text(size=11),
         axis.text.x=element_blank(),
-        axis.text.y=element_text(size=11),
+        axis.text.y=element_text(size=10),
         axis.ticks.x=element_blank(),
         strip.text = element_text(size =11),
         panel.background = element_rect(size=2))
