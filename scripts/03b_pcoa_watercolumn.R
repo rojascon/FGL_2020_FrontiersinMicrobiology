@@ -14,6 +14,7 @@
 ## CODE FOR: generating PCoA plots based on microbial commmunity dissimilarity matrices
 ## Bray-Curtis & Jaccard (WATER COLUMN data)
 ## and testing significance of patterns using PERMANOVAs
+## and creating boxplots of average Bray-Curtis dissimilarity
 
 source(file="scripts/00_background.R"); #load necessary packages and specifications
 
@@ -94,7 +95,6 @@ pcoa=ggplot(pcoa_met, aes(Axis1, Axis2))+
         panel.background = element_rect(colour = "black", size=2),
         legend.position="right",
         legend.text=element_text(size=13),
-        plot.title=element_text(size=14, face="bold"),
         axis.text.x=element_text(size=13),
         axis.title.x=element_text(size=13, face="bold"), 
         axis.text.y=element_text(size=13),
@@ -102,7 +102,7 @@ pcoa=ggplot(pcoa_met, aes(Axis1, Axis2))+
 
 #plot(pcoa);
 
-# #save image 
+##save image 
 ggsave(filename="03_WC_pcoa.pdf",
        device="pdf",path="./images",
        plot=pcoa,
@@ -132,7 +132,7 @@ colnames(bsim)=c("sample_2","sample_1", "dissim","depth_1","depth_2");
 #remove same sample comparisons (e.g. CR1 vs CR1)
 bsim=bsim[!duplicated(bsim$dissim),];
 
-#restrict distance matrix to only comparisons from 21m vs every depth
+#restrict data frame to only comparisons from 21m vs every depth
 df1=bsim[(bsim$depth_1==21)|(bsim$depth_2==21),]; 
 
 #add informative labels to comparisons

@@ -15,6 +15,7 @@
 # testing whether microbial community alpha diversity varies with sample depth
 # using linear models (WATER COLUMN data)
 
+source(file="scripts/00_background.R"); #load necessary packages and specifications
 
 ################################################################################
 #             1.  Load table of alphadiversity values; 
@@ -25,7 +26,7 @@ meta_data=read.table("data/fgl_meta.txt", sep="\t", header=T);
 
 
 ################################################################################
-#             3.  Run linear model of alpha-diversity metric ~ sample depth
+#             2.  Run linear model of alpha-diversity metric ~ sample depth
 #                               Chao1 Richness
 ################################################################################
 #merge alpha-diversity with metadata
@@ -46,10 +47,6 @@ Anova(mod);
 #             3.  Run linear model of alpha-diversity metric ~ sample depth
 #                                 Shannon Diversity
 ################################################################################
-#merge alpha-diversity with metadata
-am=alpha_met=merge(div, meta_data, by="sample");
-View(am);
-
 #obtain mean alpha-diversity values for each depth
 aggregate(shannon~depth,am, mean);
 aggregate(shannon~depth,am, sd);

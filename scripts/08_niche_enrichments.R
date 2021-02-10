@@ -13,7 +13,7 @@
 
 ## CODE FOR: generating niche breadth ~ abundance for each bacterial taxon
 #niche breadth was calculated using Levin's (1968) niche breadth index 
-#(WATER COLUMN data)
+#(ENRICHMENTS data)
 
 source(file="scripts/00_background.R"); #load necessary packages and specifications
 
@@ -21,7 +21,7 @@ source(file="scripts/00_background.R"); #load necessary packages and specificati
 ################################################################################
 #             1.  Read in your table of Levin's niche breadth values
 ################################################################################
-niche=read.table("data/fgl_niche.txt", sep="\t", header=T);
+niche=read.table("data/enrichments_niche.txt", sep="\t", header=T);
 
 #calculate +/- 1 SD from the mean niche breadth
 MeanNiche=mean(niche$niche_breadth);
@@ -41,7 +41,7 @@ new_col=c("#1b9e77", "#e6ab02", "darkorchid2", "#e7298a",
 #all other taxa were in gray
 #dashed lines denote boundaries for generalists or specialists
 
-niche_wc=ggplot(data=niche)+ 
+niche_enrich=ggplot(data=niche)+ 
   geom_point(mapping=aes(x = MeanRelAbund, 
                          y = niche_breadth, 
                          colour = colorcode),
@@ -64,13 +64,14 @@ niche_wc=ggplot(data=niche)+
         axis.text.y=element_text(size=12),
         axis.title.y=element_text(size=12, face="bold"));
 
-#plot(niche_wc);
+#plot(niche_enrich);
 
 ##save image 
-ggsave(filename="04_WC_niche.pdf",
+ggsave(filename="08_ENRICH_niche.pdf",
        device="pdf",path="./images",
-       plot=niche_wc,
+       plot=niche_enrich,
        width=6,
        height=4,
        units="in",
        dpi=400);
+
