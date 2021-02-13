@@ -21,7 +21,7 @@ source(file="scripts/00_background.R"); #load necessary packages and specificati
 ################################################################################
 #             1.  Read in your table of Levin's niche breadth values
 ################################################################################
-niche=read.table("data/enrichments_niche2.txt", sep="\t", header=T);
+niche=read.table("data/enrichments_niche.txt", sep="\t", header=T);
 
 #calculate +/- 1 SD from the mean niche breadth
 MeanNiche=mean(niche$niche_breadth);

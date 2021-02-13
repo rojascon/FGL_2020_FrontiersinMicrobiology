@@ -335,5 +335,3 @@ Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	S
 Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	uncultured	uncultured	-4.317205519	1	specialist	Other
 Bacteria	Cyanobacteria	Sericytochromatia	Sericytochromatia	Sericytochromatia	Sericytochromatia	-3.319308069	1.15240409	specialist	Other
 Bacteria	Firmicutes	Thermoanaerobacteria	Thermoanaerobacterales	SRB2	SRB2	-4.605709221	1.319324351	specialist	Other
-									
-									
