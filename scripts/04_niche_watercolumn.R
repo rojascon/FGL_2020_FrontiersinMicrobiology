@@ -34,8 +34,9 @@ lower=MeanNiche-SDNiche;
 #             2.  Scatter of Levin's niche breadth vs. taxa abundance
 ################################################################################
 #set up color palette
-new_col=c("#1b9e77", "#e6ab02", "darkorchid2", "#e7298a",
-          "steelblue1","#d9d9d9");
+new_col=c('#66c2a5','#fc8d62','#7570b3','#e78ac3','#a6d854','#ffd92f',
+          "#6baed6","#fc9272","#d9d9d9","#238b45","#08589e",
+          "#bf812d");
 
 #plot! specialist and generalist bacterial taxa of interest were shown in color
 #all other taxa were in gray
@@ -47,7 +48,6 @@ niche_wc=ggplot(data=niche)+
                          colour = colorcode),
              size=2)+
   scale_colour_manual(values=new_col)+
-  scale_y_continuous(breaks=seq(from=1, to=5, by=1))+
   labs(y="Levin's niche breadth",
        x="Average Relative Abundance (log)",
        colour="")+
@@ -64,13 +64,13 @@ niche_wc=ggplot(data=niche)+
         axis.text.y=element_text(size=12),
         axis.title.y=element_text(size=12, face="bold"));
 
-#plot(niche_wc);
+plot(niche_wc);
 
 ##save image 
 ggsave(filename="04_WC_niche.pdf",
        device="pdf",path="./images",
        plot=niche_wc,
-       width=6,
+       width=6.5,
        height=4,
        units="in",
        dpi=400);
