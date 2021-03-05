@@ -33,17 +33,23 @@ lower=MeanNiche-SDNiche;
 ################################################################################
 #             2.  Scatter of Levin's niche breadth vs. taxa abundance
 ################################################################################
-#set up color palette
-new_col=c('#66c2a5','#fc8d62','#7570b3','#e78ac3','#a6d854','#ffd92f',
-          "#6baed6","#fc9272","#238b45","#08589e","#d9d9d9",
-          "#bf812d");
-
-#plot! specialist and generalist bacterial taxa of interest were shown in color
-#all other taxa were in gray
+#specialist and generalist bacterial taxa of interest are in color
+#all other taxa are gray
 #dashed lines denote boundaries for generalists or specialists
 
-niche_enrich=ggplot(data=niche)+ 
-  geom_point(mapping=aes(x = MeanRelAbund, 
+#set up color palette
+new_col=c('#66c2a5','#fc8d62','#7570b3','#e78ac3','#a6d854','#ffd92f',
+          "#6baed6","#fc9272","#238b45","#08589e","#bf812d");
+
+#create a data frame that only contais the points that will be colored in the plot
+niche2=niche[niche$colorcode!="Other",];
+
+#plot! 
+niche_enrich=ggplot()+ 
+  geom_point(data=niche, aes(x = MeanRelAbund, y = niche_breadth),
+             size=2,
+             colour="#d9d9d9")+
+  geom_point(data=niche2, aes(x = MeanRelAbund, 
                          y = niche_breadth, 
                          colour = colorcode),
              size=2)+
